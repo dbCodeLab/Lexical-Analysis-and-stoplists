@@ -1,0 +1,362 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<diags major="2" minor="0">
+
+<diag id="1">
+	<type>233</type>
+	<message>
+		<timestamp>367277898</timestamp>
+		<thread>
+			<thrname></thrname>
+			<threadid>2620</threadid>
+			<stackstamp>367298032</stackstamp>
+			<stacktrace>
+			<loc>
+			<mod>C:\Users\Davide  Busato\documents\visual studio 2015\Projects\WordFrequency\x64\Release\WordFrequency.exe</mod>
+			<rva>0x13980</rva>
+			</loc>
+			</stacktrace>
+		</thread>
+	</message>
+</diag>
+
+<diag id="2">
+	<type>231</type>
+	<message>
+		<timestamp>1637134928</timestamp>
+		<thread>
+			<thrname></thrname>
+			<threadid>2620</threadid>
+			<stackstamp>1637154514</stackstamp>
+		</thread>
+	</message>
+</diag>
+
+<diag id="3">
+	<type>1012</type>
+	<message>
+		<timestamp>1648888142</timestamp>
+		<mess_blocks>1</mess_blocks>
+		<defined>
+			<thrname></thrname>
+			<size>24</size>
+			<threadid>2620</threadid>
+			<stackstamp>1552999994</stackstamp>
+			<stacktrace>
+			<loc>
+			<mod>C:\Users\Davide  Busato\documents\visual studio 2015\Projects\WordFrequency\x64\Release\WordFrequency.exe</mod>
+			<rva>0x5179</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\Davide  Busato\documents\visual studio 2015\Projects\WordFrequency\x64\Release\WordFrequency.exe</mod>
+			<rva>0x97e7</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\Davide  Busato\documents\visual studio 2015\Projects\WordFrequency\x64\Release\WordFrequency.exe</mod>
+			<rva>0x1165</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\Davide  Busato\documents\visual studio 2015\Projects\WordFrequency\x64\Release\WordFrequency.exe</mod>
+			<rva>0x13920</rva>
+			</loc>
+			<loc>
+			<mod>C:\WINDOWS\System32\KERNEL32.DLL</mod>
+			<rva>0x835e</rva>
+			</loc>
+			<loc>
+			<mod>C:\WINDOWS\SYSTEM32\ntdll.dll</mod>
+			<rva>0x65e8b</rva>
+			</loc>
+			</stacktrace>
+		</defined>
+	</message>
+</diag>
+
+<diag id="4">
+	<type>1012</type>
+	<message>
+		<timestamp>1648888142</timestamp>
+		<mess_blocks>24</mess_blocks>
+		<defined>
+			<thrname></thrname>
+			<size>209448</size>
+			<threadid>2620</threadid>
+			<stackstamp>1557784308</stackstamp>
+			<stacktrace>
+			<loc>
+			<mod>C:\Users\Davide  Busato\documents\visual studio 2015\Projects\WordFrequency\x64\Release\WordFrequency.exe</mod>
+			<rva>0x5823</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\Davide  Busato\documents\visual studio 2015\Projects\WordFrequency\x64\Release\WordFrequency.exe</mod>
+			<rva>0x55b5</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\Davide  Busato\documents\visual studio 2015\Projects\WordFrequency\x64\Release\WordFrequency.exe</mod>
+			<rva>0x97e7</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\Davide  Busato\documents\visual studio 2015\Projects\WordFrequency\x64\Release\WordFrequency.exe</mod>
+			<rva>0x1165</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\Davide  Busato\documents\visual studio 2015\Projects\WordFrequency\x64\Release\WordFrequency.exe</mod>
+			<rva>0x13920</rva>
+			</loc>
+			<loc>
+			<mod>C:\WINDOWS\System32\KERNEL32.DLL</mod>
+			<rva>0x835e</rva>
+			</loc>
+			<loc>
+			<mod>C:\WINDOWS\SYSTEM32\ntdll.dll</mod>
+			<rva>0x65e8b</rva>
+			</loc>
+			</stacktrace>
+		</defined>
+	</message>
+</diag>
+
+<diag id="5">
+	<type>1012</type>
+	<message>
+		<timestamp>1648888142</timestamp>
+		<mess_blocks>1</mess_blocks>
+		<defined>
+			<thrname></thrname>
+			<size>8727</size>
+			<threadid>2620</threadid>
+			<stackstamp>1553619804</stackstamp>
+			<stacktrace>
+			<loc>
+			<mod>C:\Users\Davide  Busato\documents\visual studio 2015\Projects\WordFrequency\x64\Release\WordFrequency.exe</mod>
+			<rva>0x5823</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\Davide  Busato\documents\visual studio 2015\Projects\WordFrequency\x64\Release\WordFrequency.exe</mod>
+			<rva>0x55df</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\Davide  Busato\documents\visual studio 2015\Projects\WordFrequency\x64\Release\WordFrequency.exe</mod>
+			<rva>0x97e7</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\Davide  Busato\documents\visual studio 2015\Projects\WordFrequency\x64\Release\WordFrequency.exe</mod>
+			<rva>0x1165</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\Davide  Busato\documents\visual studio 2015\Projects\WordFrequency\x64\Release\WordFrequency.exe</mod>
+			<rva>0x13920</rva>
+			</loc>
+			<loc>
+			<mod>C:\WINDOWS\System32\KERNEL32.DLL</mod>
+			<rva>0x835e</rva>
+			</loc>
+			<loc>
+			<mod>C:\WINDOWS\SYSTEM32\ntdll.dll</mod>
+			<rva>0x65e8b</rva>
+			</loc>
+			</stacktrace>
+		</defined>
+	</message>
+</diag>
+
+<diag id="6">
+	<type>1012</type>
+	<message>
+		<timestamp>1648888142</timestamp>
+		<mess_blocks>224</mess_blocks>
+		<defined>
+			<thrname></thrname>
+			<size>68048</size>
+			<threadid>2620</threadid>
+			<stackstamp>1564079444</stackstamp>
+			<stacktrace>
+			<loc>
+			<mod>C:\Users\Davide  Busato\documents\visual studio 2015\Projects\WordFrequency\x64\Release\WordFrequency.exe</mod>
+			<rva>0x5842</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\Davide  Busato\documents\visual studio 2015\Projects\WordFrequency\x64\Release\WordFrequency.exe</mod>
+			<rva>0x55b5</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\Davide  Busato\documents\visual studio 2015\Projects\WordFrequency\x64\Release\WordFrequency.exe</mod>
+			<rva>0x97e7</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\Davide  Busato\documents\visual studio 2015\Projects\WordFrequency\x64\Release\WordFrequency.exe</mod>
+			<rva>0x1165</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\Davide  Busato\documents\visual studio 2015\Projects\WordFrequency\x64\Release\WordFrequency.exe</mod>
+			<rva>0x13920</rva>
+			</loc>
+			<loc>
+			<mod>C:\WINDOWS\System32\KERNEL32.DLL</mod>
+			<rva>0x835e</rva>
+			</loc>
+			<loc>
+			<mod>C:\WINDOWS\SYSTEM32\ntdll.dll</mod>
+			<rva>0x65e8b</rva>
+			</loc>
+			</stacktrace>
+		</defined>
+	</message>
+</diag>
+
+<diag id="7">
+	<type>1012</type>
+	<message>
+		<timestamp>1648888142</timestamp>
+		<mess_blocks>329</mess_blocks>
+		<defined>
+			<thrname></thrname>
+			<size>24752</size>
+			<threadid>2620</threadid>
+			<stackstamp>1574780212</stackstamp>
+			<stacktrace>
+			<loc>
+			<mod>C:\Users\Davide  Busato\documents\visual studio 2015\Projects\WordFrequency\x64\Release\WordFrequency.exe</mod>
+			<rva>0x5842</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\Davide  Busato\documents\visual studio 2015\Projects\WordFrequency\x64\Release\WordFrequency.exe</mod>
+			<rva>0x55df</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\Davide  Busato\documents\visual studio 2015\Projects\WordFrequency\x64\Release\WordFrequency.exe</mod>
+			<rva>0x97e7</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\Davide  Busato\documents\visual studio 2015\Projects\WordFrequency\x64\Release\WordFrequency.exe</mod>
+			<rva>0x1165</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\Davide  Busato\documents\visual studio 2015\Projects\WordFrequency\x64\Release\WordFrequency.exe</mod>
+			<rva>0x13920</rva>
+			</loc>
+			<loc>
+			<mod>C:\WINDOWS\System32\KERNEL32.DLL</mod>
+			<rva>0x835e</rva>
+			</loc>
+			<loc>
+			<mod>C:\WINDOWS\SYSTEM32\ntdll.dll</mod>
+			<rva>0x65e8b</rva>
+			</loc>
+			</stacktrace>
+		</defined>
+	</message>
+</diag>
+
+<diag id="8">
+	<type>1012</type>
+	<message>
+		<timestamp>1648888142</timestamp>
+		<mess_blocks>1</mess_blocks>
+		<defined>
+			<thrname></thrname>
+			<size>11415</size>
+			<threadid>2620</threadid>
+			<stackstamp>1552494164</stackstamp>
+			<stacktrace>
+			<loc>
+			<mod>C:\Users\Davide  Busato\documents\visual studio 2015\Projects\WordFrequency\x64\Release\WordFrequency.exe</mod>
+			<rva>0x5823</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\Davide  Busato\documents\visual studio 2015\Projects\WordFrequency\x64\Release\WordFrequency.exe</mod>
+			<rva>0x4e54</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\Davide  Busato\documents\visual studio 2015\Projects\WordFrequency\x64\Release\WordFrequency.exe</mod>
+			<rva>0x91c5</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\Davide  Busato\documents\visual studio 2015\Projects\WordFrequency\x64\Release\WordFrequency.exe</mod>
+			<rva>0x97da</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\Davide  Busato\documents\visual studio 2015\Projects\WordFrequency\x64\Release\WordFrequency.exe</mod>
+			<rva>0x1165</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\Davide  Busato\documents\visual studio 2015\Projects\WordFrequency\x64\Release\WordFrequency.exe</mod>
+			<rva>0x13920</rva>
+			</loc>
+			<loc>
+			<mod>C:\WINDOWS\System32\KERNEL32.DLL</mod>
+			<rva>0x835e</rva>
+			</loc>
+			<loc>
+			<mod>C:\WINDOWS\SYSTEM32\ntdll.dll</mod>
+			<rva>0x65e8b</rva>
+			</loc>
+			</stacktrace>
+		</defined>
+	</message>
+</diag>
+
+<diag id="9">
+	<type>1012</type>
+	<message>
+		<timestamp>1648888142</timestamp>
+		<mess_blocks>1</mess_blocks>
+		<defined>
+			<thrname></thrname>
+			<size>20775</size>
+			<threadid>2620</threadid>
+			<stackstamp>1621258194</stackstamp>
+			<stacktrace>
+			<loc>
+			<mod>C:\Users\Davide  Busato\documents\visual studio 2015\Projects\WordFrequency\x64\Release\WordFrequency.exe</mod>
+			<rva>0x332d</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\Davide  Busato\documents\visual studio 2015\Projects\WordFrequency\x64\Release\WordFrequency.exe</mod>
+			<rva>0x5db9</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\Davide  Busato\documents\visual studio 2015\Projects\WordFrequency\x64\Release\WordFrequency.exe</mod>
+			<rva>0x5a1d</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\Davide  Busato\documents\visual studio 2015\Projects\WordFrequency\x64\Release\WordFrequency.exe</mod>
+			<rva>0x553e</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\Davide  Busato\documents\visual studio 2015\Projects\WordFrequency\x64\Release\WordFrequency.exe</mod>
+			<rva>0x97e7</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\Davide  Busato\documents\visual studio 2015\Projects\WordFrequency\x64\Release\WordFrequency.exe</mod>
+			<rva>0x1165</rva>
+			</loc>
+			<loc>
+			<mod>C:\Users\Davide  Busato\documents\visual studio 2015\Projects\WordFrequency\x64\Release\WordFrequency.exe</mod>
+			<rva>0x13920</rva>
+			</loc>
+			<loc>
+			<mod>C:\WINDOWS\System32\KERNEL32.DLL</mod>
+			<rva>0x835e</rva>
+			</loc>
+			<loc>
+			<mod>C:\WINDOWS\SYSTEM32\ntdll.dll</mod>
+			<rva>0x65e8b</rva>
+			</loc>
+			</stacktrace>
+		</defined>
+	</message>
+</diag>
+</diags>
+
+<diag id="10">
+	<type>231</type>
+	<message>
+		<timestamp>1654199656</timestamp>
+		<thread>
+			<thrname></thrname>
+			<threadid>2620</threadid>
+			<stackstamp>1654207190</stackstamp>
+		</thread>
+	</message>
+</diag>
+</diags>
